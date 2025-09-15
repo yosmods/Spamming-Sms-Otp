@@ -4,7 +4,7 @@ $ pkg update
 
 $ pkg upgrade
 
-$ git clone
+$ git clone https://github.com/yosmods/Spamming-Sms-Otp.git
 
 $ cd /storage/emulated/0
 
